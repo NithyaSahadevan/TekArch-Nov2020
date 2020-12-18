@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Assignment10 {
 
-	//Area
+	//CalculateArea  
 	public static float area_circle(int radius) {
 		return (float) (3.14*radius*radius);
 		
